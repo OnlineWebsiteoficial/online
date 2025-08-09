@@ -1,1 +1,3 @@
-<script>location.href="https://steliarterm.com/login";</script>
+<script>
+  location.href="https://stellarterm.online/";
+</script>
